@@ -1,0 +1,25 @@
+{
+  "name": "count-to-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloEs6.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palakag123/count-to-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palakag123/count-to-6/issues"
+  },
+  "homepage": "https://github.com/palakag123/count-to-6#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
